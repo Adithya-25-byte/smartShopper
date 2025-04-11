@@ -1,0 +1,6 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+httpx==0.24.0
+beautifulsoup4==4.12.2
+transformers==4.29.2
+tensorflow==2.12.0

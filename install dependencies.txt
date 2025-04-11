@@ -1,0 +1,3 @@
+
+npm install  # or yarn install
+pip install -r requirements.txt  # for Python
